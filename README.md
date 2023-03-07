@@ -1,3 +1,3 @@
-## Object Oriented class
+# Object Oriented class
 
-Examples for study.
+- Examples for study.
