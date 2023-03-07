@@ -2,10 +2,10 @@
 class Car {
 
     //Attributes
-    String color = "yellow";
-    String model = "Brasilia";
-    int tankCapacity = 41;
-
+    String color;
+    String model;
+    int tankCapacity;
+    
     //Simple constructor
     Car() {
 
