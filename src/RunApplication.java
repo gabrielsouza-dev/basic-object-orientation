@@ -1,3 +1,5 @@
+//Basic structure object-oriented programming
+
 public class RunApplication {
     
     //Main method to run the code
